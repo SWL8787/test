@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MOML>
     <THEMES>
-        <THEME id="style1" style = "round" padding="10" margin="5"/>
+        <THEME id="style1" style="round" padding="10" margin="5"/>
     </THEMES>
     
     
